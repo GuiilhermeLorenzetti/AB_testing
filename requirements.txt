@@ -1,0 +1,6 @@
+kagglehub
+ydata-profiling
+setuptools
+pandas
+numpy
+scikit-learn
